@@ -4,6 +4,7 @@
     <h3 align="left">Visual Identity Guide</h3>
 </div>
 <br>
+
 ---
 
 Brand assets, resources and visual identity guide for The Block Foundation. Inside you'll find all the brand tools you'll need to build with the community.
@@ -16,6 +17,7 @@ Brand assets, resources and visual identity guide for The Block Foundation. Insi
 * [Favicon](#favicon)
 * [Frameworks](#frameworks)
 * [Copyright](#copyright)
+* [Disclaimer](#disclaimer)
 
 ## Logomark
 
@@ -74,3 +76,7 @@ We use the [Stylescape SCSS Framework](https://github.com/scape-agency/stylescap
 ## Copyright
 
 Copyright &copy; 2023 [Block Foundation](https://www.blockfoundation.io/ "Block Foundation website"). All Rights Reserved.
+
+## Disclaimer
+
+**THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
