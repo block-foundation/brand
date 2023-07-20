@@ -25,7 +25,7 @@ Brand assets, resources and visual identity guide for The Block Foundation. Insi
 Barlow
 
 <p align="center">
-    <img src=img src="https://raw.githubusercontent.com/block-foundation/brand/master/font/barlow/barlow.gif"width="100%" height="100%" alt="Barlow">
+    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/font/barlow/barlow.gif"width="100%" height="100%" alt="Barlow">
 </p>
 
 - Repository: [jpt/barlow](https://github.com/jpt/barlow)
@@ -44,7 +44,7 @@ Barlow
 ### Banner
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/banner/form_follows_finance.jpeg"width="100%" height="100%" alt="Form Follows Finance">
+    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/banner/form_follows_finance.jpg"width="100%" height="100%" alt="Form Follows Finance">
 </p>
 
 ### Favicon
