@@ -6,9 +6,17 @@ Brand assets, resources and visual identity guide for The Block Foundation. Insi
 
 ### Logomark
 
+| Variant | PNG | SVG |
+|---------|-----|-----|
+| dark | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_dark.png" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo_dark.png) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_dark.svg" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo_dark.svg) |
+| dark transparant || [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_dark-trans.png" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo_dark-trans.png) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_dark-trans.svg" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo_dark-trans.svg) |
+
 ### Logotype
 
 ### Font
+
+Repository: [jpt/barlow](https://github.com/jpt/barlow)
+License: [OFL](https://github.com/jpt/barlow/blob/main/OFL.txt)
 
 ### Color
 
