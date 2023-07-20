@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="120" alt="Block Foundation Logo">
+<img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="128" alt="Block Foundation Logo">
 <h1 align="left">Block Foundation Brand Assets</h1>
 
 **Visual Identity Guide**
