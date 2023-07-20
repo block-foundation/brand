@@ -53,3 +53,9 @@ We us `Barlow`.
 </p>
 
 ## Favicon
+
+- [Download Favicon ZIP Package](https://github.com/block-foundation/brand/blob/master/favicon/favicon.zip)
+
+## Copyright
+
+Copyright &copy; 2023 [Block Foundation](https://www.blockfoundation.io/ "Block Foundation website"). All Rights Reserved.
