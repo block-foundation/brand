@@ -9,6 +9,15 @@
 
 Brand assets, resources and visual identity guide for The Block Foundation. Inside you'll find all the brand tools you'll need to build with the community.
 
+* [Logomark](#logomark)
+* [Logotype](#logotype)
+* [Font](#font)
+* [Color](#color)
+* [Banner](#banner)
+* [Favicon](#favicon)
+* [Frameworks](#frameworks)
+* [Copyright](#copyright)
+
 ## Logomark
 
 | Variant | PNG | SVG | WEBP |
@@ -30,9 +39,9 @@ We us `Barlow`.
     <img src="https://raw.githubusercontent.com/block-foundation/brand/master/font/barlow/barlow.gif"width="100%" height="100%" alt="Barlow">
 </p>
 
-- Creators: Jeremy Tribby (Principal Design) and Nguyễn Hồng Nhung (Vietnamese)
-- Repository: [jpt/barlow](https://github.com/jpt/barlow)
-- License: [OFL](https://github.com/jpt/barlow/blob/main/OFL.txt)
+* Creators: Jeremy Tribby (Principal Design) and Nguyễn Hồng Nhung (Vietnamese)
+* Repository: [jpt/barlow](https://github.com/jpt/barlow)
+* License: [OFL](https://github.com/jpt/barlow/blob/main/OFL.txt)
 
 ## Color
 
@@ -43,8 +52,8 @@ We us `Barlow`.
 | <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-03.png" width="64" height="64"> | Block Base 03 | F0F1F2 | 240, 241, 242 | 200, 1, 95 |
 | <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-04.png" width="64" height="64"> | Block Base 04 | FFFFFF | 255, 255, 255 | 0, 0, 0 |
 
-- [Download SCSS](https://github.com/block-foundation/brand/blob/master/color/block_foundation-color.scss)
-- [Download ASE](https://github.com/block-foundation/brand/blob/master/color/block_foundation-color.ase)
+* [Download SCSS](https://github.com/block-foundation/brand/blob/master/color/block_foundation-color.scss)
+* [Download ASE](https://github.com/block-foundation/brand/blob/master/color/block_foundation-color.ase)
 
 ## Banner
 
@@ -54,7 +63,14 @@ We us `Barlow`.
 
 ## Favicon
 
-- [Download Favicon ZIP Package](https://github.com/block-foundation/brand/blob/master/favicon/favicon.zip)
+* [Download Favicon ZIP Package](https://github.com/block-foundation/brand/blob/master/favicon/favicon.zip)
+
+## Frameworks
+
+We use the [Stylescape SCSS Framework](https://github.com/scape-agency/stylescape) by [Scape Agency](https://www.scape.agency) for all our online content.
+
+* Website: [scape.style](https://www.scape.style)
+* Repository: [github.com/scape-agency/stylescape](https://github.com/scape-agency/stylescape)
 
 ## Copyright
 
