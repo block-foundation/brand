@@ -7,8 +7,6 @@
 
 Brand assets, resources and visual identity guide for The Block Foundation. Inside you'll find all the brand tools you'll need to build with the community.
 
-## Assets
-
 ### Logomark
 
 | Variant | PNG | SVG |
@@ -23,6 +21,10 @@ Brand assets, resources and visual identity guide for The Block Foundation. Insi
 ### Logotype
 
 ### Font
+
+Barlow
+
+<img src=img src="https://raw.githubusercontent.com/block-foundation/brand/master/fonts/barlow/barlow.gif"width="100%" height="100%" alt="Barlow">
 
 - Repository: [jpt/barlow](https://github.com/jpt/barlow)
 - License: [OFL](https://github.com/jpt/barlow/blob/main/OFL.txt)
@@ -40,7 +42,7 @@ Brand assets, resources and visual identity guide for The Block Foundation. Insi
 ### Banner
 
 <p align="center">
-    <img src="https://block-foundation.github.io/.assets/image/banner/block_foundation-form_follows_finance.jpeg"width="100%" height="100%" alt="Form Follows Finance">
+    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/banner/block_foundation-form_follows_finance.jpeg"width="100%" height="100%" alt="Form Follows Finance">
 </p>
 
 ### Favicon
