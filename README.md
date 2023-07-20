@@ -67,7 +67,7 @@ We us `Barlow`.
 
 ## Frameworks
 
-We use the [Stylescape SCSS Framework](https://github.com/scape-agency/stylescape) by [Scape Agency](https://www.scape.agency) for all our online content.
+We use the [Stylescape SCSS Framework](https://github.com/scape-agency/stylescape) by [Scape Agency](https://www.scape.agency)&reg; for all our online content.
 
 * Website: [scape.style](https://www.scape.style)
 * Repository: [github.com/scape-agency/stylescape](https://github.com/scape-agency/stylescape)
