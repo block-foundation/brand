@@ -19,11 +19,23 @@ Brand assets, resources and visual identity guide for The Block Foundation. Insi
 
 ### Font
 
-Repository: [jpt/barlow](https://github.com/jpt/barlow)
-License: [OFL](https://github.com/jpt/barlow/blob/main/OFL.txt)
+- Repository: [jpt/barlow](https://github.com/jpt/barlow)
+- License: [OFL](https://github.com/jpt/barlow/blob/main/OFL.txt)
 
 ### Color
 
+
+| Name | HEX | RGB |
+|---------|-----|-----|
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
 ### Banner
+
+<p align="center">
+    <img src="https://block-foundation.github.io/.assets/image/banner/block_foundation-form_follows_finance.jpeg"width="100%" height="100%" alt="Form Follows Finance">
+</p>
 
 ### Favicon
