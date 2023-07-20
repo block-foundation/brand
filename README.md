@@ -1,4 +1,7 @@
-# Block Foundation Brand Assets
+<img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="120" alt="Block Foundation Logo">
+<h1 align="left">Block Foundation Brand Assets</h1>
+
+**Visual Identity Guide**
 
 Brand assets, resources and visual identity guide for The Block Foundation. Inside you'll find all the brand tools you'll need to build with the community.
 
