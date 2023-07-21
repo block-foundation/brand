@@ -8,12 +8,13 @@
 
 </div>
 
+---
+
 <div>
     <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
-    <h1 align="left">Block Foundation Brand Assets</h1>
-    <h3 align="left">Visual Identity Guide</h3>
+    <h1 align="left">Block Foundation</h1>
+    <h3 align="left">Brand Assets & Visual Identity Guide</h3>
 </div>
-<br>
 
 ---
 
@@ -58,10 +59,10 @@ We us `Barlow`.
 
 | Color   | Name | HEX | RGB | HSB |
 |---------|------|-----|-----|-----|
-| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-01.png" width="64" height="64"> | Block Base 01 | 041B26 | 4, 27, 38 | 200, 90, 15 |
-| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-02.png" width="64" height="64"> | Block Base 02 | E1E4E5 | 225, 228, 229 | 200, 2, 90 |
-| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-03.png" width="64" height="64"> | Block Base 03 | F0F1F2 | 240, 241, 242 | 200, 1, 95 |
-| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-04.png" width="64" height="64"> | Block Base 04 | FFFFFF | 255, 255, 255 | 0, 0, 0 |
+| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-01.png" width="64" height="64"> | Block Base 01 | `#041B26` | `rgba(4, 27, 38)` | 200, 90, 15 |
+| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-02.png" width="64" height="64"> | Block Base 02 | `#E1E4E5` | `rgba(225, 228, 229)` | 200, 2, 90 |
+| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-03.png" width="64" height="64"> | Block Base 03 | `#F0F1F2` | `rgba(240, 241, 242)` | 200, 1, 95 |
+| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-04.png" width="64" height="64"> | Block Base 04 | `#FFFFFF` | `rgba(255, 255, 255)` | 0, 0, 0 |
 
 * [Download SCSS](https://github.com/block-foundation/brand/blob/master/color/block_foundation-color.scss)
 * [Download ASE](https://github.com/block-foundation/brand/blob/master/color/block_foundation-color.ase)
