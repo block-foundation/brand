@@ -57,12 +57,12 @@ We us `Barlow`.
 
 ## Color
 
-| Color | Name | HEX | RGB | HSL | HSB | CMYK |
+|  | Color | HEX | RGB | HSL | HSB | CMYK |
 |-------|------|-----|-----|-----|-----|------|
-| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-01.png" width="64" height="64"> | Block Base 01 | `#041B26` | `rgba(4, 27, 38)` | 	`hsl(199, 81%, 8%)` | 200, 90, 15 | C 13%   M 4%   Y 0%   K 85% |
-| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-02.png" width="64" height="64"> | Block Base 02 | `#E1E4E5` | `rgba(225, 228, 229)` | `hsl(195, 7%, 89%)` | 200, 2, 90 | C 2%   M 0%   Y 0%   K 10% |
-| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-03.png" width="64" height="64"> | Block Base 03 | `#F0F1F2` | `rgba(240, 241, 242)` | `hsl(210, 7%, 95%)` | 200, 1, 95 | C 1%   M 0%   Y 0%   K 5% |
-| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-04.png" width="64" height="64"> | Block Base 04 | `#FFFFFF` | `rgba(255, 255, 255)` | `hsl(0, 0%, 100%)` | 0, 0, 0 | C 0%   M 0%   Y 0%   K 0% |
+| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-01.png" width="64" height="64"> | **Base 01** | `#041B26` | `4, 27, 38` | `199, 81%, 8%` | `200, 90, 15` | `13%, 4%, 0%, 85%` |
+| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-02.png" width="64" height="64"> | **Base 02** | `#E1E4E5` | `225, 228, 229` | `195, 7%, 89%` | `200, 2, 90` | `2%, 0%, 0%, 10%` |
+| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-03.png" width="64" height="64"> | **Base 03** | `#F0F1F2` | `240, 241, 242` | `210, 7%, 95%` | `200, 1, 95` | `1%, 0%, 0%, 5%` |
+| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-04.png" width="64" height="64"> | **Base 04** | `#FFFFFF` | `255, 255, 255` | `0, 0%, 100%` | `0, 0, 0` | `0%, 0%, 0%, 0%` |
 
 * [Download SCSS](https://github.com/block-foundation/brand/blob/master/color/block_foundation-color.scss)
 * [Download ASE](https://github.com/block-foundation/brand/blob/master/color/block_foundation-color.ase)
