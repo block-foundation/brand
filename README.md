@@ -2,9 +2,6 @@
 
   [![license](https://img.shields.io/github/license/block-foundation/brand?color=green&label=license&style=flat-square)](LICENSE.md)
   [![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fwww.blockfoundation.io)](https://www.blockfoundation.io)
-  ![stars](https://img.shields.io/github/stars/block-foundation/brand?color=blue&label=stars&style=flat-square)
-  ![sponsors](https://img.shields.io/github/sponsors/geoid-org?color=blue&label=sponsors&style=flat-square)
-  ![contributors](https://img.shields.io/github/contributors/block-foundation/brand?color=blue&label=contributors&style=flat-square)
 
 </div>
 
@@ -84,10 +81,20 @@ We use the [Stylescape SCSS Framework](https://github.com/scape-agency/stylescap
 * Website: [scape.style](https://www.scape.style)
 * Repository: [github.com/scape-agency/stylescape](https://github.com/scape-agency/stylescape)
 
-## Copyright
+## Legal
+
+### Copyright
 
 Copyright &copy; 2023 [Block Foundation](https://www.blockfoundation.io/ "Block Foundation website"). All Rights Reserved.
 
-## Disclaimer
+### License
+
+Except as otherwise noted, the content in this repository is licensed under the
+[Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/), and
+code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
+
+Also see [LICENSE](https://github.com/block-foundation/community/blob/master/LICENSE) and [LICENSE-CODE](https://github.com/block-foundation/community/blob/master/LICENSE-CODE).
+
+### Disclaimer
 
 **THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
