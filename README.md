@@ -64,10 +64,10 @@ We us `Barlow`.
 * [Download SCSS](https://github.com/block-foundation/brand/blob/master/color/block_foundation-color.scss)
 * [Download ASE](https://github.com/block-foundation/brand/blob/master/color/block_foundation-color.ase)
 
-## Banner
+## Images
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/banner/form_follows_finance.jpg"width="100%" height="100%" alt="Form Follows Finance">
+    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/image/block_foundation-form_follows_finance.jpg"width="100%" height="100%" alt="Form Follows Finance">
 </p>
 
 ## Favicon
