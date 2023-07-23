@@ -72,7 +72,7 @@ We us `Barlow`.
 
 ### Covers
 
-| Variant | Color | Mono | Acccent |
+|  | Color | Mono | Acccent |
 |---------|-----|-----|-----|
 | **structure-03** | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-structure-03-color.jpg" width="200">](https://github.com/block-foundation/brand/blob/master/image/repository_cover/block_foundation-structure-03-color.jpg) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-structure-03-mono.jpg" width="200">](https://github.com/block-foundation/brand/blob/master/image/repository_cover/block_foundation-structure-03-mono.jpg) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-structure-03-accent.jpg" width="200">](https://github.com/block-foundation/brand/blob/master/image/repository_cover/block_foundation-structure-03-accent.jpg) |
 
