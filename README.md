@@ -72,8 +72,8 @@ We us `Barlow`.
 
 ### Covers
 
-| Color | Mono | Acccent |
-|-----|-----|-----|
+| Color | Monochrome | Acccent |
+| ----- | ---------- | ------- |
 | [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-structure-03-color.jpg" width="100%">](https://github.com/block-foundation/brand/blob/master/image/repository_cover/block_foundation-structure-03-color.jpg)*structure-03-color* | [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-structure-03-mono.jpg" width="100%">](https://github.com/block-foundation/brand/blob/master/image/repository_cover/block_foundation-structure-03-mono.jpg)*structure-03-mono* | [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-structure-03-accent.jpg" width="100%">](https://github.com/block-foundation/brand/blob/master/image/repository_cover/block_foundation-structure-03-accent.jpg)*structure-03-accent* |
 
 ## Favicon
