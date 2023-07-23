@@ -15,17 +15,30 @@
 
 ---
 
+<div>
+<img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-structure-03-accent.jpg"  alt="Block Foundation Brand">
+<br>
+<details open="open">
+<summary>Table of Contents</summary>
+  
+- [Logomark](#logomark)
+- [Logotype](#logotype)
+- [Font](#font)
+- [Color](#color)
+- [Banner](#banner)
+- [Favicon](#favicon)
+- [Frameworks](#frameworks)
+- [Copyright](#copyright)
+- [Disclaimer](#disclaimer)
+
+</details>
+</div>
+<br clear="both"/>
+
+
 Brand assets, resources and visual identity guide for The Block Foundation. Inside you'll find all the brand tools you'll need to build with the community.
 
-* [Logomark](#logomark)
-* [Logotype](#logotype)
-* [Font](#font)
-* [Color](#color)
-* [Banner](#banner)
-* [Favicon](#favicon)
-* [Frameworks](#frameworks)
-* [Copyright](#copyright)
-* [Disclaimer](#disclaimer)
+
 
 ## Logomark
 
