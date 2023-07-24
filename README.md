@@ -8,7 +8,7 @@
 ---
 
 <div>
-    <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
+    <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
     <h1 align="left">Block Foundation</h1>
     <h3 align="left">Brand Assets & Visual Identity Guide</h3>
 </div>
@@ -16,91 +16,169 @@
 ---
 
 <div>
-<img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-structure-03-accent.jpg"  alt="Block Foundation Brand">
+<img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg"  alt="Block Foundation Brand">
 <br>
 <details open="open">
 <summary>Table of Contents</summary>
   
-- [Logomark](#logomark)
-- [Logotype](#logotype)
-- [Font](#font)
+- [Style Guide](#style-guide)
+- [Logo](#logo)
+  - [Logomark](#logomark)
+  - [Logotype](#logotype)
+  - [Favicon](#favicon)
+- [Typography](#typography)
 - [Color](#color)
-- [Banner](#banner)
-- [Favicon](#favicon)
+- [Images](#images)
+  - [Artworks](#artworks)
 - [Frameworks](#frameworks)
-- [Copyright](#copyright)
-- [Disclaimer](#disclaimer)
+  - [SCSS](#scss)
+- [Templates](#templates)
+- [Development Resources](#development-resources)
+- [Legal Information](#legal-information)
+  - [Copyright](#copyright)
+  - [License](#license)
+  - [Disclaimer](#disclaimer)
 
 </details>
 </div>
+
 <br clear="both"/>
 
+## Introduction
 
-Brand assets, resources and visual identity guide for The Block Foundation. Inside you'll find all the brand tools you'll need to build with the community.
+Welcome to the official Brand Repository of the Block Foundation! This platform is an all-inclusive resource of our brand identity, encapsulating our ethos, vision, and the graphical elements that distinguish us in the global arena of architectural innovation.
 
+Our brand is not just a logo or a name, but a reflection of our mission to revolutionize architecture through blockchain technology. It symbolizes our commitment to facilitating a sustainable, equitable, and dynamic housing market that balances the interests of all stakeholders.
 
+This repository hosts a comprehensive collection of our branding materials — from our logo in various formats to color palettes, typography guidelines, official stationary templates, and presentation layouts. Each element is meticulously designed to communicate our essence, ensuring a cohesive and consistent representation of the Block Foundation across all platforms.
 
-## Logomark
+We invite our community, collaborators, and media personnel to use this repository as a guide when representing the Block Foundation. Whether you're creating content for us, collaborating on a project, or featuring our work, these resources will ensure you accurately capture and convey the spirit of our organization.
+
+We kindly ask that you adhere to the guidelines detailed in this repository to maintain the integrity of our brand. And remember, our brand is not just an identifier but a promise of the transformative potential blockchain holds for the architectural landscape.
+
+Welcome to the Block Foundation's brand repository. Let's together uphold and amplify the voice of change in the world of architecture!
+
+## Style Guide
+
+Please see this PDF overview.
+
+## Logo
+
+### Logomark
 
 | Variant | PNG | SVG | WEBP |
 |---------|-----|-----|-----|
-| **dark** | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_dark.png" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_dark.png) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_dark.svg" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_dark.svg) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_dark.webp" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_dark.webp) |
-| **dark transparant** | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_dark-trans.png" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_dark-trans.png) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_dark-trans.svg" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_dark-trans.svg) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_dark-trans.webp" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_dark-trans.webp) |
-| **gray** | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_gray.png) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.svg" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_gray.svg) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.webp" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_gray.webp) |
-| **gray transparant** | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray-trans.png" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_gray-trans.png) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray-trans.svg" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_gray-trans.svg) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray-trans.webp" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_gray-trans.webp) |
-| **light** | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_light.png" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_light.png) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_light.svg" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_light.svg) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_light.webp" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_light.webp) |
-| **light transparant** | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_light-trans.png" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_light-trans.png) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_light-trans.svg" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_light-trans.svg) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_light-trans.webp" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/logo/logo_light-trans.webp) |
+| **dark** | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_dark.png" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_dark.png) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_dark.svg" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_dark.svg) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_dark.webp" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_dark.webp) |
+| **dark transparant** | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_dark-trans.png" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_dark-trans.png) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_dark-trans.svg" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_dark-trans.svg) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_dark-trans.webp" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_dark-trans.webp) |
+| **gray** | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_gray.png" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_gray.png) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_gray.svg" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_gray.svg) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_gray.webp" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_gray.webp) |
+| **gray transparant** | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_gray-trans.png" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_gray-trans.png) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_gray-trans.svg" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_gray-trans.svg) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_gray-trans.webp" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_gray-trans.webp) |
+| **light** | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_light.png" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_light.png) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_light.svg" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_light.svg) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_light.webp" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_light.webp) |
+| **light transparant** | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_light-trans.png" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_light-trans.png) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_light-trans.svg" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_light-trans.svg) | [<img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_light-trans.webp" width="200" height="200">](https://github.com/block-foundation/brand/blob/master/src/logo/logo_light-trans.webp) |
 
-## Logotype
+### Logotype
 
-## Font
+### Favicon
+
+- [Download Favicon ZIP Package](https://github.com/block-foundation/brand/blob/master/src/favicon/favicon.zip)
+
+### Badge
+
+Share that your organisation or project endorses the Block Foundation by adding our badge to your readme or website.
+
+``` html
+<a href="https://github.com/storybooks/storybook" target="_blank"><img src="https://raw.githubusercontent.com/storybooks/brand/master/badge/badge-storybook.svg"></a>
+```
+
+## Typography
+
+### Main Display Font
 
 We us `Barlow`.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/font/barlow/barlow.gif"width="100%" height="100%" alt="Barlow">
+    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/font/barlow/barlow.gif"width="100%" height="100%" alt="Barlow">
 </p>
 
-* Creators: Jeremy Tribby (Principal Design) and Nguyễn Hồng Nhung (Vietnamese)
-* Repository: [jpt/barlow](https://github.com/jpt/barlow)
-* License: [OFL](https://github.com/jpt/barlow/blob/main/OFL.txt)
+- Creators: [Jeremy Tribby](https://github.com/jpt) (Principal Design) and Nguyễn Hồng Nhung (Vietnamese)
+- Repository: [jpt/barlow](https://github.com/jpt/barlow)
+- License: [OFL](https://github.com/jpt/barlow/blob/main/OFL.txt)
 
 ## Color
 
-|  | Color | HEX | RGB | HSL | HSB | CMYK |
-|-------|------|-----|-----|-----|-----|------|
-| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-01.png" width="64" height="64"> | **Base 01** | `#041B26` | `4, 27, 38` | `199, 81%, 8%` | `200, 90, 15` | `13%, 4%, 0%, 85%` |
-| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-02.png" width="64" height="64"> | **Base 02** | `#E1E4E5` | `225, 228, 229` | `195, 7%, 89%` | `200, 2, 90` | `2%, 0%, 0%, 10%` |
-| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-03.png" width="64" height="64"> | **Base 03** | `#F0F1F2` | `240, 241, 242` | `210, 7%, 95%` | `200, 1, 95` | `1%, 0%, 0%, 5%` |
-| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/color/block_foundation-color-base-04.png" width="64" height="64"> | **Base 04** | `#FFFFFF` | `255, 255, 255` | `0, 0%, 100%` | `0, 0, 0` | `0%, 0%, 0%, 0%` |
+|           | Color     | HEX       | RGB       | HSL       | HSB       | CMYK      |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/color/block_foundation-color-base-01.png" width="64" height="64"> | **Base 01** | `#041B26` | `4, 27, 38` | `199, 81%, 8%` | `200, 90, 15` | `13%, 4%, 0%, 85%` |
+| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/color/block_foundation-color-base-02.png" width="64" height="64"> | **Base 02** | `#E1E4E5` | `225, 228, 229` | `195, 7%, 89%` | `200, 2, 90` | `2%, 0%, 0%, 10%` |
+| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/color/block_foundation-color-base-03.png" width="64" height="64"> | **Base 03** | `#F0F1F2` | `240, 241, 242` | `210, 7%, 95%` | `200, 1, 95` | `1%, 0%, 0%, 5%` |
+| <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/color/block_foundation-color-base-04.png" width="64" height="64"> | **Base 04** | `#FFFFFF` | `255, 255, 255` | `0, 0%, 100%` | `0, 0, 0` | `0%, 0%, 0%, 0%` |
 
-* [Download SCSS](https://github.com/block-foundation/brand/blob/master/color/block_foundation-color.scss)
-* [Download ASE](https://github.com/block-foundation/brand/blob/master/color/block_foundation-color.ase)
+:arrow_down: [Download SCSS](https://github.com/block-foundation/brand/blob/master/src/color/block_foundation-color.scss)
+<br />
+:arrow_down: [Download ASE](https://github.com/block-foundation/brand/blob/master/src/color/block_foundation-color.ase)
+
+## Text
+
+Capitalize the "B" and "F" in "Block Foundationn" in all copy text. The lock Foundationn should only be presented in all uppercase when displayed in our official logos (see above).
 
 ## Images
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/image/block_foundation-form_follows_finance.jpg"width="100%" height="100%" alt="Form Follows Finance">
-</p>
+### Artworks
 
-### Covers
+Our repositories use the following artworks to make them just a little bit moe enticing!
 
 | Color | Monochrome | Acccent |
 | ----- | ---------- | ------- |
-| [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-structure-03-color.jpg" width="100%">](https://github.com/block-foundation/brand/blob/master/image/repository_cover/block_foundation-structure-03-color.jpg)*structure-03-color* | [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-structure-03-mono.jpg" width="100%">](https://github.com/block-foundation/brand/blob/master/image/repository_cover/block_foundation-structure-03-mono.jpg)*structure-03-mono* | [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-structure-03-accent.jpg" width="100%">](https://github.com/block-foundation/brand/blob/master/image/repository_cover/block_foundation-structure-03-accent.jpg)*structure-03-accent* |
-
-## Favicon
-
-* [Download Favicon ZIP Package](https://github.com/block-foundation/brand/blob/master/favicon/favicon.zip)
+| [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-color.jpg" width="100%">](https://github.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-color.jpg)*`structure-03-color`* | [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-mono.jpg" width="100%">](https://github.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-mono.jpg)*`structure-03-mono`* | [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg" width="100%">](https://github.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg)*`structure-03-accent`* |
 
 ## Frameworks
 
-We use the [Stylescape SCSS Framework](https://github.com/scape-agency/stylescape) by [Scape Agency](https://www.scape.agency)&reg; for all our online content.
+### SCSS
 
-* Website: [scape.style](https://www.scape.style)
-* Repository: [github.com/scape-agency/stylescape](https://github.com/scape-agency/stylescape)
+We use the [Stylescape SCSS Framework](https://github.com/scape-agency/stylescape) developed by [Scape Agency](https://www.scape.agency)&reg; for all our online content.
 
-## Legal
+- Website: [scape.style](https://www.scape.style)
+- Repository: [github.com/scape-agency/stylescape](https://github.com/scape-agency/stylescape)
+
+#### HTML Script Tag
+
+``` html
+<script src="https://unpkg.com/stylescape@latest/dist.min.js"></script>
+```
+
+#### NPM Module
+
+``` bash
+npm i stylescape
+```
+
+## Templates
+
+### Presentation Template
+
+Share Block Foundation at work, meetups, and conferences. Get a head start on your slides with our ready-to-use presentation (Keynote, PDF).
+
+This presentation template gives you a head start on presenting Block Foundation. It's inspired by how the community-at-large shares Block Foundation.
+
+Please use, remix, and customize it to fit your needs.
+
+#### Contents
+
+- PDF
+- Keynote
+- PowerPoint
+
+#### Customize
+
+1. Requires Keynote to edit
+2. Install the fonts here
+3. Replace the for-placement-only images by dragging new images onto them
+4. Fill out your name, Twitter, and other details as you see fit.
+5. Create new slides to fit your talk
+
+
+## Development Resources
+
+## Legal Information
 
 ### Copyright
 
@@ -112,7 +190,7 @@ Except as otherwise noted, the content in this repository is licensed under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/), and
 code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
 
-Also see [LICENSE](https://github.com/block-foundation/community/blob/master/LICENSE) and [LICENSE-CODE](https://github.com/block-foundation/community/blob/master/LICENSE-CODE).
+Also see [LICENSE](https://github.com/block-foundation/community/blob/master/src/LICENSE) and [LICENSE-CODE](https://github.com/block-foundation/community/blob/master/src/LICENSE-CODE).
 
 ### Disclaimer
 
