@@ -192,7 +192,6 @@ Within our repositories we use simple-icons for most iconographic purposes. This
 - simple-icons reposiory: [github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 - simple-icons license: [CC0 1.0 Universal](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md)
 
-
 ### IO Shields
 
 We use [IO Shields](https://shields.io/) combined with [simple-icons](https://simpleicons.org/) to display repository information.
@@ -243,11 +242,6 @@ All repositories include the basic header, in some cases combined with additiona
 
 ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)
 ![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
-
-</div>
-
-<div align="right">
-
 ![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Pulls:&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client)
 ![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/ethereum-client/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Size:&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client)
 ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/blockfoundation/ethereum-client?sort=semver&style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Version:&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client%2Ftags)
