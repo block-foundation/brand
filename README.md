@@ -15,12 +15,6 @@
 
 ---
 
-![Static Badge](https://img.shields.io/badge/Report%20a%20Bug-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Abug-suspected%26template%3Dbug_report.yml)
-![Static Badge](https://img.shields.io/badge/Request%20a%20Feature-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Afeature-request%252CHelp%2Bwanted%2B%25F0%259F%25AA%25A7%26template%3Dfeature_request.yml)
-![Static Badge](https://img.shields.io/badge/Ask%20a%20Question-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Aquestion%26template%3Dquestion.yml)
-![Static Badge](https://img.shields.io/badge/Make%20a%20Suggestion-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Aenhancement%26template%3Dsuggestion.yml)
-![Static Badge](https://img.shields.io/badge/Start%20a%20Discussion-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fdiscussions)
-
 <div>
 <img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg"  alt="Block Foundation Brand">
 <br>
@@ -49,6 +43,16 @@
 </div>
 
 <br clear="both"/>
+
+---
+
+
+![Static Badge](https://img.shields.io/badge/Report%20a%20Bug-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Abug-suspected%26template%3Dbug_report.yml)
+![Static Badge](https://img.shields.io/badge/Request%20a%20Feature-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Afeature-request%252CHelp%2Bwanted%2B%25F0%259F%25AA%25A7%26template%3Dfeature_request.yml)
+![Static Badge](https://img.shields.io/badge/Ask%20a%20Question-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Aquestion%26template%3Dquestion.yml)
+![Static Badge](https://img.shields.io/badge/Make%20a%20Suggestion-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Aenhancement%26template%3Dsuggestion.yml)
+![Static Badge](https://img.shields.io/badge/Start%20a%20Discussion-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fdiscussions)
+
 
 ## Introduction
 
