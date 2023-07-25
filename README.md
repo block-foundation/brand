@@ -178,27 +178,27 @@ We use [Mermaid](https://mermaid.js.org/) in our repositories.
 ``` mermaid
 flowchart LR
     Light:::class_light --> Neutral:::class_neutral --> Dark:::class_dark
-    classDef class_light fill:#FFFFFF,color:#041B26,stroke:#041B26,stroke-width:4px;
-    classDef class_neutral fill:#E1E4E5,color:#041B26,stroke:#041B26,stroke-width:4px;
-    classDef class_dark fill:#041B26,color:#FFFFFF,stroke:#041B26,stroke-width:4px;
+    classDef class_light fill:#FFFFFF,color:#041B26,stroke:#041B26,stroke-width:2px;
+    classDef class_neutral fill:#E1E4E5,color:#041B26,stroke:#041B26,stroke-width:2px;
+    classDef class_dark fill:#041B26,color:#FFFFFF,stroke:#041B26,stroke-width:2px;
 ```
 
 `class_light`
 
 ``` md
-    classDef class_light fill:#FFFFFF,color:#041B26,stroke:#041B26,stroke-width:4px;
+    classDef class_light fill:#FFFFFF,color:#041B26,stroke:#041B26,stroke-width:2px;
 ```
 
 `class_neutral`
 
 ``` md
-    classDef class_neutral fill:#E1E4E5,color:#041B26,stroke:#041B26,stroke-width:4px;
+    classDef class_neutral fill:#E1E4E5,color:#041B26,stroke:#041B26,stroke-width:2px;
 ```
 
 `class_dark`
 
 ``` md
-    classDef class_dark fill:#041B26,color:#FFFFFF,stroke:#041B26,stroke-width:4px;
+    classDef class_dark fill:#041B26,color:#FFFFFF,stroke:#041B26,stroke-width:2px;
 ```
 
 ## Elements
