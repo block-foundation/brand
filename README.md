@@ -30,6 +30,7 @@
 - [Color](#color)
 - [Graphics](#graphics)
   <!-- - [Artworks](#artworks) -->
+- [Diagrams](#diagrams)
 - [Elements](#elements)
 - [Frameworks](#frameworks)
   <!-- - [SCSS](#scss) -->
@@ -176,8 +177,28 @@ We use [Mermaid](https://mermaid.js.org/) in our repositories.
 
 ``` mermaid
 flowchart LR
-    A:::someclass --> B
-    classDef someclass fill:#E1E4E5
+    Light:::class_light --> Neutral:::class_neutral --> Dark:::class_dark
+    classDef class_light fill:#FFFFFF,color:#041B26,stroke:#041B26,stroke-width:4px;
+    classDef class_neutral fill:#E1E4E5,color:#041B26,stroke:#041B26,stroke-width:4px;
+    classDef class_dark fill:#041B26,color:#FFFFFF,stroke:#041B26,stroke-width:4px;
+```
+
+`class_light`
+
+``` md
+    classDef class_light fill:#FFFFFF,color:#041B26,stroke:#041B26,stroke-width:4px;
+```
+
+`class_neutral`
+
+``` md
+    classDef class_neutral fill:#E1E4E5,color:#041B26,stroke:#041B26,stroke-width:4px;
+```
+
+`class_dark`
+
+``` md
+    classDef class_dark fill:#041B26,color:#FFFFFF,stroke:#041B26,stroke-width:4px;
 ```
 
 ## Elements
@@ -209,7 +230,7 @@ We use [IO Shields](https://shields.io/) combined with [simple-icons](https://si
 
 #### Shields
 
-|                     |     | shield.io url   | simpleicons tag   |
+|                     |      | shield.io url   | simpleicons tag   |
 | :------------------ | :--- | :--- | :--- |
 | **License**         | ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE) | [/badges/git-hub](https://shields.io/badges/git-hub) | `readthedocs` |
 | **Docker Pulls**    | ![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Pulls:&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client) | [/badges/docker-pulls](https://shields.io/badges/docker-stars) | `docker` |
