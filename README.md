@@ -199,13 +199,13 @@ We use [IO Shields](https://shields.io/) combined with [simpleicons](https://sim
 
 #### Shields
 
-|          |     |     |    |
+|          |     | shield.io url   | simpleicons tag   |
 | --------------- | --- | --- | --- |
-| License    | ![GitHub](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE) | [/badges/git-hub](https://shields.io/badges/git-hub) | `readthedocs` |
-| Docker Pulls | ![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral) | [/badges/docker-pulls](https://shields.io/badges/docker-stars) | `docker` |
-| Docker Stars         | ![Docker Stars](https://img.shields.io/docker/stars/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Stars&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral) | [/badges/docker-stars](https://shields.io/badges/docker-stars) | `docker` |
-| Docker Size | ![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/ethereum-client/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Size&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral) | [/badges/docker-image-size-tag](https://shields.io/badges/docker-image-size-tag) | `docker` |
-| devContainer         | ![Static Badge](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)    | [/badges](https://shields.io/badges)    | `visualstudiocode` |
+| **License**    | ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE) | [/badges/git-hub](https://shields.io/badges/git-hub) | `readthedocs` |
+| **Docker Pulls** | ![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral) | [/badges/docker-pulls](https://shields.io/badges/docker-stars) | `docker` |
+| **Docker Stars**         | ![Docker Stars](https://img.shields.io/docker/stars/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Stars&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral) | [/badges/docker-stars](https://shields.io/badges/docker-stars) | `docker` |
+| **Docker Size** | ![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/ethereum-client/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Size&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral) | [/badges/docker-image-size-tag](https://shields.io/badges/docker-image-size-tag) | `docker` |
+| **devContainer**         | ![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)    | [/badges](https://shields.io/badges)    | `visualstudiocode` |
 
 #### Combinations
 
@@ -214,12 +214,14 @@ We use [IO Shields](https://shields.io/) combined with [simpleicons](https://sim
 
 > Preview
 
-![GitHub](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 
 > Copy
 
  ``` md
- ![GitHub](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+ ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+ ![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 ```
 
 > Replace
@@ -232,14 +234,14 @@ ethereum-client
 
 > Preview
 
-![GitHub](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
 ![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral)
 ![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/ethereum-client/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Size&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral)
 
 > Copy
 
  ``` md
- ![GitHub](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+ ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
 ![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral)
 ![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/ethereum-client/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Size&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral)
 ```
@@ -255,12 +257,14 @@ ethereum-client
 
 > Preview
 
-![GitHub](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 
 > Copy
 
  ``` md
- ![GitHub](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+ ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+ ![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 ```
 
 > Replace
@@ -274,12 +278,14 @@ ethereum-client
 
 > Preview
 
-![GitHub](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 
 > Copy
 
  ``` md
- ![GitHub](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+ ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+ ![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 ```
 
 > Replace
