@@ -77,9 +77,13 @@ Please see this PDF overview.
 
 ### Logotype
 
+|   |   |
+| - | - |
+|   |   |
+
 ### Favicon
 
-:arrow_down: [Download Favicon ZIP Package](https://github.com/block-foundation/brand/blob/master/src/favicon/favicon.zip)
+![Download](https://img.shields.io/badge/favicon.zip-favicon?style=flat-square&logo=files&logoColor=%23FFFFFF&label=Download%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fblob%2Fmaster%2Fsrc%2Ffavicon%2Ffavicon.zip)
 
 ### Badge
 
@@ -112,9 +116,9 @@ We us `Barlow`.
 | <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/color/block_foundation-color-base-03.png" width="64" height="64"> | **Base 03** | `#F0F1F2` | `240, 241, 242` | `210, 7%, 95%` | `200, 1, 95` | `1%, 0%, 0%, 5%` |
 | <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/color/block_foundation-color-base-04.png" width="64" height="64"> | **Base 04** | `#FFFFFF` | `255, 255, 255` | `0, 0%, 100%` | `0, 0, 0` | `0%, 0%, 0%, 0%` |
 
-:arrow_down: [Download SCSS](https://github.com/block-foundation/brand/blob/master/src/color/block_foundation-color.scss)
+![Download](https://img.shields.io/badge/SCSS-SCSS?style=flat-square&logo=files&logoColor=%23FFFFFF&label=Download%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fblob%2Fmaster%2Fsrc%2Fcolor%2Fblock_foundation-color.scss)
+![Download](https://img.shields.io/badge/ASE-ASE?style=flat-square&logo=files&logoColor=%23FFFFFF&label=Download%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fblob%2Fmaster%2Fsrc%2Fcolor%2Fblock_foundation-color.ase)
 
-:arrow_down: [Download ASE](https://github.com/block-foundation/brand/blob/master/src/color/block_foundation-color.ase)
 
 ## Text
 
@@ -180,16 +184,25 @@ Please use, remix, and customize it to fit your needs. -->
 
 ## Other Elements
 
+### Icons
+
+Within our repositories we use simple-icons for most iconographic purposes. This brand repository includes a copy this icon set (downloaded per 2023-07-25): [/src/icons/simple-icons/](/src/icons/simple-icons/)
+
+- simple-icons website: [simpleicons.org](https://simpleicons.org/)
+- simple-icons reposiory: [github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+- simple-icons license: [CC0 1.0 Universal](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md)
+
+
 ### IO Shields
 
-We use [IO Shields](https://shields.io/) combined with [simpleicons](https://simpleicons.org/) to display repository information.
+We use [IO Shields](https://shields.io/) combined with [simple-icons](https://simpleicons.org/) to display repository information.
 
 #### Parameters
 
 | Field           |     |     |
 | --------------- | --- | --- |
 | style           | `flat-square`    |     |
-| logo            | `bitcoin` | Named logo via [simpleicons](https://simpleicons.org/) |
+| logo            | `bitcoin` | Named logo via [simple-icons](https://simpleicons.org/) |
 | logoColor       | `#FFFFFF` | All white logo to match the text color |
 | label           | `License:` | Title caps label text |
 | labelColor      | `#041B26` | Completely dark background   |
@@ -211,7 +224,7 @@ We use [IO Shields](https://shields.io/) combined with [simpleicons](https://sim
 
 
 
-
+![Download](https://img.shields.io/badge/File-File?style=flat-square&logo=files&logoColor=%23FFFFFF&label=Download%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fblob%2Fmaster%2Fsrc%2Fcolor%2Fblock_foundation-color.scss)
 
 
 #### Combinations
