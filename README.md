@@ -15,6 +15,12 @@
 
 ---
 
+![Static Badge](https://img.shields.io/badge/Report%20a%20Bug-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Abug-suspected%26template%3Dbug_report.yml)
+![Static Badge](https://img.shields.io/badge/Request%20a%20Feature-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Afeature-request%252CHelp%2Bwanted%2B%25F0%259F%25AA%25A7%26template%3Dfeature_request.yml)
+![Static Badge](https://img.shields.io/badge/Ask%20a%20Question-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Aquestion%26template%3Dquestion.yml)
+![Static Badge](https://img.shields.io/badge/Make%20a%20Suggestion-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Aenhancement%26template%3Dsuggestion.yml)
+![Static Badge](https://img.shields.io/badge/Start%20a%20Discussion-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fdiscussions)
+
 <div>
 <img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg"  alt="Block Foundation Brand">
 <br>
@@ -254,11 +260,6 @@ All repositories include the basic header, in some cases combined with additiona
 
 ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)
 ![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
-
-</div>
-
-<div align="right">
-
 ![DOI](https://img.shields.io/badge/10.5281%2Fzenodo.8173471-DOI?style=flat-square&logo=DOI&logoColor=%23FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fdoi.org%2F10.5281%2Fzenodo.8173471)
 ![Zotero](https://img.shields.io/badge/zotero.org%2Fgroups%2Fblock-Zotero?style=flat-square&logo=Zotero&logoColor=%23FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fwww.zotero.org%2Fgroups%2Fblock)
 
@@ -281,6 +282,14 @@ All repositories include the basic header, in some cases combined with additiona
 ![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 
 </div>
+
+#### Repository Interactions
+
+![Static Badge](https://img.shields.io/badge/Report%20a%20Bug-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Abug-suspected%26template%3Dbug_report.yml)
+![Static Badge](https://img.shields.io/badge/Request%20a%20Feature-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Afeature-request%252CHelp%2Bwanted%2B%25F0%259F%25AA%25A7%26template%3Dfeature_request.yml)
+![Static Badge](https://img.shields.io/badge/Ask%20a%20Question-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Aquestion%26template%3Dquestion.yml)
+![Static Badge](https://img.shields.io/badge/Make%20a%20Suggestion-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Aenhancement%26template%3Dsuggestion.yml)
+![Static Badge](https://img.shields.io/badge/Start%20a%20Discussion-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fdiscussions)
 
 ---
 
