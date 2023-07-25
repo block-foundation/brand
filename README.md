@@ -171,7 +171,7 @@ Our repositories use the following artworks to make them just a little bit moe e
 
 ## Diagrams
 
-We use [Mermaid](https://mermaid.js.org/) in our repositories.
+We use [Mermaid](https://mermaid.js.org/) in our repositories for simple data and process visualisations.
 
 ### Flowchart
 
@@ -199,6 +199,20 @@ flowchart LR
 
 ``` md
     classDef class_dark fill:#041B26,color:#FFFFFF,stroke:#041B26,stroke-width:2px;
+```
+
+### Pie chart
+
+``` mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFFFFF', 'pie2': '#E1E4E5', 'pie3': '#041B26'}}}%%
+pie title Crypto
+    "Bitcoin" : 386
+    "Ethereum" : 85
+    "Algorand" : 15
+```
+
+``` md
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFFFFF', 'pie2': '#E1E4E5', 'pie3': '#041B26'}}}%%
 ```
 
 ## Elements
