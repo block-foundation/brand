@@ -42,6 +42,8 @@
 </details>
 </div>
 
+<br clear="both"/>
+
 <div align="right">
 
 ![Static Badge](https://img.shields.io/badge/Report%20a%20Bug-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Abug-suspected%26template%3Dbug_report.yml)
@@ -52,7 +54,6 @@
 
 </div>
 
-<br clear="both"/>
 
 ---
 
