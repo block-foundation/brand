@@ -106,6 +106,7 @@ We us `Barlow`.
 - Creators: [Jeremy Tribby](https://github.com/jpt) (Principal Design) and Nguyễn Hồng Nhung (Vietnamese)
 - Repository: [jpt/barlow](https://github.com/jpt/barlow)
 - License: [OFL](https://github.com/jpt/barlow/blob/main/OFL.txt)
+- GIF courtesy of the original creators.
 
 ## Color
 
@@ -226,10 +227,9 @@ We use [IO Shields](https://shields.io/) combined with [simple-icons](https://si
 
 ![Download](https://img.shields.io/badge/File-File?style=flat-square&logo=files&logoColor=%23FFFFFF&label=Download%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fblob%2Fmaster%2Fsrc%2Fcolor%2Fblock_foundation-color.scss)
 
-
 #### Combinations
 
-**Basic Repositories** 
+##### Basic Repositories
 
 <div align="right">
 
@@ -237,91 +237,44 @@ We use [IO Shields](https://shields.io/) combined with [simple-icons](https://si
 ![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 
 </div>
-
- ``` md
-<div align="right">
-
-![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
-![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
-
-</div>
-```
-
-> copy code above, then find and replace: `ethereum-client`
 
 ##### Docker Container Repositories
 
-> Preview
+<div align="right">
 
 ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
 ![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral)
 ![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/ethereum-client/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Size&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral)
 
-> Copy
-
- ``` md
-![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
-![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral)
-![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/ethereum-client/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Size&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral)
-```
-
-> Replace
-
-``` txt
-ethereum-client
-```
+</div>
 
 ##### LaTeX Repositories
 
-> Preview
+<div align="right">
 
-| Repository Type    |       |
-| --- | --- |
-| **LaTeX**  | ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE) ![DOI](https://img.shields.io/badge/10.5281%2Fzenodo.8173471-DOI?style=flat-square&logo=DOI&logoColor=%23FFFFFF&label=DOI%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fdoi.org%2F10.5281%2Fzenodo.8173471) ![Zotero](https://img.shields.io/badge/zotero.org%2Fgroups%2Fblock-Zotero?style=flat-square&logo=Zotero&logoColor=%23FFFFFF&label=Zotero%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fwww.zotero.org%2Fgroups%2Fblock) |
+![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+![DOI](https://img.shields.io/badge/10.5281%2Fzenodo.8173471-DOI?style=flat-square&logo=DOI&logoColor=%23FFFFFF&label=DOI%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fdoi.org%2F10.5281%2Fzenodo.8173471)
+![Zotero](https://img.shields.io/badge/zotero.org%2Fgroups%2Fblock-Zotero?style=flat-square&logo=Zotero&logoColor=%23FFFFFF&label=Zotero%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fwww.zotero.org%2Fgroups%2Fblock)
 
+</div>
 
 ##### NPM Repositories
 
-
-> Preview
+<div align="right">
 
 ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
 ![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 
-> Copy
-
- ``` md
- ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
- ![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
-```
-
-> Replace
-
-``` txt
-ethereum-client
-```
+</div>
 
 ##### PyPi Repositories
 
-
-> Preview
+<div align="right">
 
 ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
 ![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 
-> Copy
-
- ``` md
- ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
- ![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
-```
-
-> Replace
-
-``` txt
-ethereum-client
-```
-
+</div>
 
 ## Development Resources
 
