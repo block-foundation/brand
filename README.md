@@ -28,14 +28,16 @@
   - [Favicon](#favicon) -->
 - [Typography](#typography)
 - [Color](#color)
-- [Images](#images)
+- [Graphics](#graphics)
   <!-- - [Artworks](#artworks) -->
+- [Elements](#elements)
 - [Frameworks](#frameworks)
   <!-- - [SCSS](#scss) -->
 - [Templates](#templates)
-- [Development Resources](#development-resources)
+- [Colophon](#colophon)
+<!-- - [Development Resources](#development-resources)
 - [Legal Information](#legal-information)
-  <!-- - [Copyright](#copyright)
+  - [Copyright](#copyright)
   - [License](#license)
   - [Disclaimer](#disclaimer) -->
 
@@ -56,9 +58,11 @@
 
 </div>
 
+**Welcome to the official Brand Repository of the Block Foundation – Let's together uphold and amplify the voice of change in the world of architecture!**
+
 ## Introduction
 
-Welcome to the official Brand Repository of the Block Foundation! This platform is an all-inclusive resource of our brand identity, encapsulating our ethos, vision, and the graphical elements that distinguish us in the global arena of architectural innovation.
+This repository is an all-inclusive resource of our brand identity, encapsulating our ethos, vision, and the graphical elements that distinguish us in the global arena of architectural innovation.
 
 Our brand is not just a logo or a name, but a reflection of our mission to revolutionize architecture through blockchain technology. It symbolizes our commitment to facilitating a sustainable, equitable, and dynamic housing market that balances the interests of all stakeholders.
 
@@ -68,11 +72,11 @@ We invite our community, collaborators, and media personnel to use this reposito
 
 We kindly ask that you adhere to the guidelines detailed in this repository to maintain the integrity of our brand. And remember, our brand is not just an identifier but a promise of the transformative potential blockchain holds for the architectural landscape.
 
-Welcome to the Block Foundation's brand repository. Let's together uphold and amplify the voice of change in the world of architecture!
-
 ## Style Guide
 
-Please see this PDF overview.
+<!-- Please see this PDF overview. -->
+
+`Will be provided shortly.`
 
 ## Logo
 
@@ -89,9 +93,11 @@ Please see this PDF overview.
 
 ### Logotype
 
-|   |   |
+`Will be provided shortly.`
+
+<!-- |   |   |
 | - | - |
-|   |   |
+|   |   | -->
 
 ### Favicon
 
@@ -100,6 +106,8 @@ Please see this PDF overview.
 ### Badge
 
 Share that your organisation or project endorses the Block Foundation by adding our badge to your readme or website.
+
+`Will be provided shortly.`
 
 <!-- ``` html
 <a href="https://github.com/storybooks/storybook" target="_blank"><img src="https://raw.githubusercontent.com/storybooks/brand/master/badge/badge-storybook.svg"></a>
@@ -120,7 +128,17 @@ We us `Barlow`.
 - License: [OFL](https://github.com/jpt/barlow/blob/main/OFL.txt)
 - GIF courtesy of the original creators.
 
+### Secondary Font
+
+`Will be provided shortly.`
+
+### Text Conventions
+
+Capitalize the "B" and "F" in "Block Foundationn" in all copy text. The Block Foundationn should only be presented in all uppercase when displayed in our official logos.
+
 ## Color
+
+### Base Colors
 
 |           | Color     | HEX       | RGB       | HSL       | HSB       | CMYK      |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
@@ -132,11 +150,11 @@ We us `Barlow`.
 ![Download](https://img.shields.io/badge/SCSS-SCSS?style=flat-square&logo=files&logoColor=%23FFFFFF&label=Download%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fblob%2Fmaster%2Fsrc%2Fcolor%2Fblock_foundation-color.scss)
 ![Download](https://img.shields.io/badge/ASE-ASE?style=flat-square&logo=files&logoColor=%23FFFFFF&label=Download%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fblob%2Fmaster%2Fsrc%2Fcolor%2Fblock_foundation-color.ase)
 
-## Text
+### Secondary Colors
 
-Capitalize the "B" and "F" in "Block Foundationn" in all copy text. The lock Foundationn should only be presented in all uppercase when displayed in our official logos (see above).
+`Will be provided shortly.`
 
-## Images
+## Graphics
 
 ### Artworks
 
@@ -146,55 +164,11 @@ Our repositories use the following artworks to make them just a little bit moe e
 | ----- | ---------- | ------- |
 | [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-color.jpg" width="100%">](https://github.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-color.jpg)*`structure-03-color`* | [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-mono.jpg" width="100%">](https://github.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-mono.jpg)*`structure-03-mono`* | [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg" width="100%">](https://github.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg)*`structure-03-accent`* |
 
-## Frameworks
+### Banners
 
-### SCSS
+`Will be provided shortly.`
 
-We use the [Stylescape SCSS Framework](https://github.com/scape-agency/stylescape) developed by [Scape Agency](https://www.scape.agency)&reg; for all our online content.
-
-- Website: [scape.style](https://www.scape.style)
-- Repository: [github.com/scape-agency/stylescape](https://github.com/scape-agency/stylescape)
-
-#### HTML Script Tag
-
-``` html
-<script src="https://unpkg.com/stylescape@latest/dist.min.js"></script>
-```
-
-#### NPM Module
-
-``` bash
-npm i stylescape
-```
-
-## Templates
-
-### Presentation Template
-
-<!-- Share Block Foundation at work, meetups, and conferences. Get a head start on your slides with our ready-to-use presentation (Keynote, PDF).
-
-This presentation template gives you a head start on presenting Block Foundation. It's inspired by how the community-at-large shares Block Foundation.
-
-Please use, remix, and customize it to fit your needs. -->
-
-
-
-#### Contents
-
-- PDF
-- Keynote
-- PowerPoint
-
-#### Customize
-
-1. Requires Keynote to edit
-2. Install the fonts here
-3. Replace the for-placement-only images by dragging new images onto them
-4. Fill out your name, Twitter, and other details as you see fit.
-5. Create new slides to fit your talk
-
-
-## Other Elements
+## Elements
 
 ### Icons
 
@@ -300,6 +274,53 @@ All repositories include the basic header, in some cases combined with additiona
 ![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 
 </div>
+
+## Frameworks
+
+### SCSS
+
+We use the [Stylescape SCSS Framework](https://github.com/scape-agency/stylescape) developed by [Scape Agency](https://www.scape.agency)&reg; for all our online content.
+
+- Website: [scape.style](https://www.scape.style)
+- Repository: [github.com/scape-agency/stylescape](https://github.com/scape-agency/stylescape)
+
+#### HTML Script Tag
+
+``` html
+<script src="https://unpkg.com/stylescape@latest/dist.min.js"></script>
+```
+
+#### NPM Module
+
+``` bash
+npm i stylescape
+```
+
+## Templates
+
+### Presentation Template
+
+`Will be provided shortly.`
+
+<!-- Share Block Foundation at work, meetups, and conferences. Get a head start on your slides with our ready-to-use presentation (Keynote, PDF).
+
+This presentation template gives you a head start on presenting Block Foundation. It's inspired by how the community-at-large shares Block Foundation.
+
+Please use, remix, and customize it to fit your needs. -->
+
+#### Contents
+
+- PDF
+- Keynote
+- PowerPoint
+
+#### Customize
+
+1. Requires Keynote to edit
+2. Install the fonts here
+3. Replace the for-placement-only images by dragging new images onto them
+4. Fill out your name, Twitter, and other details as you see fit.
+5. Create new slides to fit your talk
 
 ---
 
