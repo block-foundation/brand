@@ -134,7 +134,7 @@ We us `Barlow`.
 
 ### Text Conventions
 
-Capitalize the "B" and "F" in "Block Foundationn" in all copy text. The Block Foundationn should only be presented in all uppercase when displayed in our official logos.
+Capitalize the "B" and "F" in "Block Foundation" in all copy text. The Block Foundationn should only be presented in all uppercase when displayed in our official logos.
 
 ## Color
 
@@ -168,6 +168,18 @@ Our repositories use the following artworks to make them just a little bit moe e
 
 `Will be provided shortly.`
 
+## Diagrams
+
+We use [Mermaid](https://mermaid.js.org/) in our repositories.
+
+### Flowchart
+
+``` mermaid
+flowchart LR
+    A:::someclass --> B
+    classDef someclass fill:#E1E4E5
+```
+
 ## Elements
 
 ### Icons
@@ -184,16 +196,16 @@ We use [IO Shields](https://shields.io/) combined with [simple-icons](https://si
 
 #### Parameters
 
-| Field           |     |     |
-| --------------- | --- | --- |
-| style           | `flat-square`    |     |
-| logo            | `bitcoin` | Named logo via [simple-icons](https://simpleicons.org/) |
-| logoColor       | `#FFFFFF` | All white logo to match the text color |
-| label           | `License:` | Title caps label text |
-| labelColor      | `#041B26` | Completely dark background   |
-| color           | `#041B26` |  |
-| cacheSeconds    | default   |  |
-| link            | misc.     | Always try to provide a link |
+| Field           | Value           | Description |
+| :-------------- | :-------------- | :---------- |
+| style           | `flat-square`    |             |
+| logo            | `bitcoin`       | Named logo via [simple-icons](https://simpleicons.org/) |
+| logoColor       | `#FFFFFF`       | All white logo to match the text color |
+| label           | `License:`      | Title caps label text |
+| labelColor      | `#041B26`       | Completely dark background   |
+| color           | `#041B26`       |  |
+| cacheSeconds    | default         |  |
+| link            | misc.           | Always try to provide a link |
 
 #### Shields
 
