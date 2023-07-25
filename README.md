@@ -23,21 +23,21 @@
   
 - [Style Guide](#style-guide)
 - [Logo](#logo)
-  - [Logomark](#logomark)
+  <!-- - [Logomark](#logomark)
   - [Logotype](#logotype)
-  - [Favicon](#favicon)
+  - [Favicon](#favicon) -->
 - [Typography](#typography)
 - [Color](#color)
 - [Images](#images)
-  - [Artworks](#artworks)
+  <!-- - [Artworks](#artworks) -->
 - [Frameworks](#frameworks)
-  - [SCSS](#scss)
+  <!-- - [SCSS](#scss) -->
 - [Templates](#templates)
 - [Development Resources](#development-resources)
 - [Legal Information](#legal-information)
-  - [Copyright](#copyright)
+  <!-- - [Copyright](#copyright)
   - [License](#license)
-  - [Disclaimer](#disclaimer)
+  - [Disclaimer](#disclaimer) -->
 
 </details>
 </div>
@@ -53,6 +53,7 @@
 ![Static Badge](https://img.shields.io/badge/Make%20a%20Suggestion-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Aenhancement%26template%3Dsuggestion.yml)
 ![Static Badge](https://img.shields.io/badge/Start%20a%20Discussion-GitHub?style=flat-square&logo=github&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fdiscussions)
 
+---
 
 ## Introduction
 
