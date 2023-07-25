@@ -180,10 +180,11 @@ Please use, remix, and customize it to fit your needs. -->
 5. Create new slides to fit your talk
 
 
-## Other Elemtents
+## Other Elements
 
-## IO Shields
+### IO Shields
 
+#### Parameters
 
 | Field           |     |     |
 | --------------- | --- | --- |
@@ -196,15 +197,31 @@ Please use, remix, and customize it to fit your needs. -->
 | cacheSeconds    | default   |  |
 | link            | misc.     | Always try to provide a link |
 
+#### Shields
+
 | Service         | Shields    |     |
 | --------------- | --- | --- |
 | License    | ![GitHub](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)     |     |
 | Docker          | ![Docker Stars](https://img.shields.io/docker/stars/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Stars&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral) ![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral) ![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/ethereum-client/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Size&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral) | |
 
-> Docker Pulls
+#### Combinations
+
+##### Container Repositories
+
+> Preview
+
+![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral)
+
+> Copy
 
  ``` md
 ![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral)
+```
+
+> Replace
+
+``` txt
+ethereum-client
 ```
 
 ## Development Resources
