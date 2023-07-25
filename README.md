@@ -218,7 +218,7 @@ We use [IO Shields](https://shields.io/) combined with [simpleicons](https://sim
 
 </div>
 
-> replace: `ethereum-client`
+> copy code below, then find and replace: `ethereum-client`
 
  ``` md
 <div align="right">
@@ -227,13 +227,7 @@ We use [IO Shields](https://shields.io/) combined with [simpleicons](https://sim
 ![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 
 </div>
-```
 
-> Replace
-
-``` txt
-`ethereum-client`
-```
 
 ##### Docker Container Repositories
 
