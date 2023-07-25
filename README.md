@@ -79,12 +79,7 @@ Please see this PDF overview.
 
 ### Favicon
 
-- [Download Favicon ZIP Package](https://github.com/block-foundation/brand/blob/master/src/favicon/favicon.zip)
-
-Download Favicon ZIP Package:
-
-<a href="https://github.com/block-foundation/brand/blob/master/src/favicon/favicon.zip"><img alt="favicon.zip" src="https://camo.githubusercontent.com/523d7e81c3d3dcd01b711f14c87e850edeb8e62bf72814d3231ab084a0c70d31/68747470733a2f2f7777772e726f737472756d2e626c6f672f706f73742f323031392d30362d31312d612d7265706f2d74656d706c6174652d666f722d722d616e616c797369735f66696c65732f7573652d746869732e706e67" width="150px" /></a>
-
+:arrow_down: [Download Favicon ZIP Package](https://github.com/block-foundation/brand/blob/master/src/favicon/favicon.zip)
 
 ### Badge
 
@@ -118,7 +113,9 @@ We us `Barlow`.
 | <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/color/block_foundation-color-base-04.png" width="64" height="64"> | **Base 04** | `#FFFFFF` | `255, 255, 255` | `0, 0%, 100%` | `0, 0, 0` | `0%, 0%, 0%, 0%` |
 
 :arrow_down: [Download SCSS](https://github.com/block-foundation/brand/blob/master/src/color/block_foundation-color.scss)
+
 <br />
+
 :arrow_down: [Download ASE](https://github.com/block-foundation/brand/blob/master/src/color/block_foundation-color.ase)
 
 ## Text
@@ -160,11 +157,11 @@ npm i stylescape
 
 ### Presentation Template
 
-Share Block Foundation at work, meetups, and conferences. Get a head start on your slides with our ready-to-use presentation (Keynote, PDF).
+<!-- Share Block Foundation at work, meetups, and conferences. Get a head start on your slides with our ready-to-use presentation (Keynote, PDF).
 
 This presentation template gives you a head start on presenting Block Foundation. It's inspired by how the community-at-large shares Block Foundation.
 
-Please use, remix, and customize it to fit your needs.
+Please use, remix, and customize it to fit your needs. -->
 
 #### Contents
 
@@ -180,14 +177,13 @@ Please use, remix, and customize it to fit your needs.
 4. Fill out your name, Twitter, and other details as you see fit.
 5. Create new slides to fit your talk
 
-
 ## Development Resources
 
 ## Legal Information
 
 ### Copyright
 
-Copyright &copy; 2023 [Block Foundation](https://www.blockfoundation.io/ "Block Foundation website"). All Rights Reserved.
+Copyright &copy; 2023 [Stichting Block Foundation](https://www.blockfoundation.io/ "Block Foundation website"). All Rights Reserved.
 
 ### License
 
