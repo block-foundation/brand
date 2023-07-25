@@ -85,9 +85,9 @@ Please see this PDF overview.
 
 Share that your organisation or project endorses the Block Foundation by adding our badge to your readme or website.
 
-``` html
+<!-- ``` html
 <a href="https://github.com/storybooks/storybook" target="_blank"><img src="https://raw.githubusercontent.com/storybooks/brand/master/badge/badge-storybook.svg"></a>
-```
+``` -->
 
 ## Typography
 
