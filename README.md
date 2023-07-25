@@ -163,6 +163,8 @@ This presentation template gives you a head start on presenting Block Foundation
 
 Please use, remix, and customize it to fit your needs. -->
 
+
+
 #### Contents
 
 - PDF
@@ -176,6 +178,34 @@ Please use, remix, and customize it to fit your needs. -->
 3. Replace the for-placement-only images by dragging new images onto them
 4. Fill out your name, Twitter, and other details as you see fit.
 5. Create new slides to fit your talk
+
+
+## Other Elemtents
+
+## IO Shields
+
+
+| Field           |     |     |
+| --------------- | --- | --- |
+| style           | `flat-square`    |     |
+| logo            | `bitcoin` | Named logo via [simpleicons](https://simpleicons.org/) |
+| logoColor       | `#FFFFFF` | All white logo to match the text color |
+| label           | `License:` | Title caps label text |
+| labelColor      | `#041B26` | Completely dark background   |
+| color           | `#041B26` |  |
+| cacheSeconds    | default   |  |
+| link            | misc.     | Always try to provide a link |
+
+| Service         | Shields    |     |
+| --------------- | --- | --- |
+| License    | ![GitHub](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)     |     |
+| Docker          | ![Docker Stars](https://img.shields.io/docker/stars/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Stars&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral) ![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral) ![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/ethereum-client/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Size&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral) | |
+
+> Docker Pulls
+
+ ``` md
+![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral)
+```
 
 ## Development Resources
 
