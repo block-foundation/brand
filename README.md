@@ -120,7 +120,6 @@ We us `Barlow`.
 ![Download](https://img.shields.io/badge/SCSS-SCSS?style=flat-square&logo=files&logoColor=%23FFFFFF&label=Download%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fblob%2Fmaster%2Fsrc%2Fcolor%2Fblock_foundation-color.scss)
 ![Download](https://img.shields.io/badge/ASE-ASE?style=flat-square&logo=files&logoColor=%23FFFFFF&label=Download%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fblob%2Fmaster%2Fsrc%2Fcolor%2Fblock_foundation-color.ase)
 
-
 ## Text
 
 Capitalize the "B" and "F" in "Block Foundationn" in all copy text. The lock Foundationn should only be presented in all uppercase when displayed in our official logos (see above).
@@ -215,79 +214,77 @@ We use [IO Shields](https://shields.io/) combined with [simple-icons](https://si
 
 |                     |     | shield.io url   | simpleicons tag   |
 | :------------------ | :--- | :--- | :--- |
-| **License**         | ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE) | [/badges/git-hub](https://shields.io/badges/git-hub) | `readthedocs` |
-| **Docker Pulls**    | ![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client) | [/badges/docker-pulls](https://shields.io/badges/docker-stars) | `docker` |
-| **Docker Stars**    | ![Docker Stars](https://img.shields.io/docker/stars/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Stars&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client) | [/badges/docker-stars](https://shields.io/badges/docker-stars) | `docker` |
-| **Docker Version**    | ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/blockfoundation/ethereum-client?sort=semver&style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Version&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client%2Ftags)
- | [/badges/docker-stars](https://shields.io/badges/docker-stars) | `docker` |
-| **Docker Size**     | ![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/ethereum-client/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Size&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client) | [/badges/docker-image-size-tag](https://shields.io/badges/docker-image-size-tag) | `docker` |
-| **devContainer**    | ![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)    | [/badges](https://shields.io/badges)    | `visualstudiocode` |
-| **DOI**    | ![DOI](https://img.shields.io/badge/10.5281%2Fzenodo.8173471-DOI?style=flat-square&logo=DOI&logoColor=%23FFFFFF&label=DOI%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fdoi.org%2F10.5281%2Fzenodo.8173471)    | [/badges](https://shields.io/badges)    | `DOI` |
-| **Zotero**    | ![Zotero](https://img.shields.io/badge/zotero.org%2Fgroups%2Fblock-Zotero?style=flat-square&logo=Zotero&logoColor=%23FFFFFF&label=Zotero%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fwww.zotero.org%2Fgroups%2Fblock)    | [/badges](https://shields.io/badges)    | `Zotero` |
+| **License**         | ![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE) | [/badges/git-hub](https://shields.io/badges/git-hub) | `readthedocs` |
+| **Docker Pulls**    | ![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Pulls:&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client) | [/badges/docker-pulls](https://shields.io/badges/docker-stars) | `docker` |
+| **Docker Stars**    | ![Docker Stars](https://img.shields.io/docker/stars/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Stars:&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client) | [/badges/docker-stars](https://shields.io/badges/docker-stars) | `docker` |
+| **Docker Version**    | ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/blockfoundation/ethereum-client?sort=semver&style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Version:&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client%2Ftags) | [/badges/docker-stars](https://shields.io/badges/docker-stars) | `docker` |
+| **Docker Size**     | ![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/ethereum-client/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Size:&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client) | [/badges/docker-image-size-tag](https://shields.io/badges/docker-image-size-tag) | `docker` |
+| **devContainer**    | ![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)    | [/badges](https://shields.io/badges)    | `visualstudiocode` |
+| **DOI**    | ![DOI](https://img.shields.io/badge/10.5281%2Fzenodo.8173471-DOI?style=flat-square&logo=DOI&logoColor=%23FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fdoi.org%2F10.5281%2Fzenodo.8173471)    | [/badges](https://shields.io/badges)    | `DOI` |
+| **Zotero**    | ![Zotero](https://img.shields.io/badge/zotero.org%2Fgroups%2Fblock-Zotero?style=flat-square&logo=Zotero&logoColor=%23FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fwww.zotero.org%2Fgroups%2Fblock)    | [/badges](https://shields.io/badges)    | `Zotero` |
 | **Download**    | ![Download](https://img.shields.io/badge/File-File?style=flat-square&logo=files&logoColor=%23FFFFFF&label=Download%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fblob%2Fmaster%2Fsrc%2Fcolor%2Fblock_foundation-color.scss)  | [/badges](https://shields.io/badges)    | `files` |
-
-
-
 
 #### Repository Headers
 
-##### Basic Repositories
+All repositories include the basic header, in some cases combined with additional shields.
+
+##### Basic Repository Header
 
 <div align="right">
 
-![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
-![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
+![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 
 </div>
 
-##### Docker Container Repositories
+##### Docker Container Repository Header
 
 <div align="right">
 
-![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
-![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
-
-</div>
-
-<div align="right">
-
-![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client)
-![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/ethereum-client/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Size&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client)
-![Docker Image Version (latest semver)](https://img.shields.io/docker/v/blockfoundation/ethereum-client?sort=semver&style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Version&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client%2Ftags)
-
-</div>
-
-##### LaTeX Repositories
-
-<div align="right">
-
-![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
-![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
+![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 
 </div>
 
 <div align="right">
 
-![DOI](https://img.shields.io/badge/10.5281%2Fzenodo.8173471-DOI?style=flat-square&logo=DOI&logoColor=%23FFFFFF&label=DOI%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fdoi.org%2F10.5281%2Fzenodo.8173471)
-![Zotero](https://img.shields.io/badge/zotero.org%2Fgroups%2Fblock-Zotero?style=flat-square&logo=Zotero&logoColor=%23FFFFFF&label=Zotero%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fwww.zotero.org%2Fgroups%2Fblock)
+![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Pulls:&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client)
+![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/ethereum-client/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Size:&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client)
+![Docker Image Version (latest semver)](https://img.shields.io/docker/v/blockfoundation/ethereum-client?sort=semver&style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Version:&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fblockfoundation%2Fethereum-client%2Ftags)
 
 </div>
 
-##### NPM Repositories
+##### LaTeX / Citation Repository Header
 
 <div align="right">
 
-![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
-![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
+![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 
 </div>
 
-##### PyPi Repositories
+<div align="right">
+
+![DOI](https://img.shields.io/badge/10.5281%2Fzenodo.8173471-DOI?style=flat-square&logo=DOI&logoColor=%23FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fdoi.org%2F10.5281%2Fzenodo.8173471)
+![Zotero](https://img.shields.io/badge/zotero.org%2Fgroups%2Fblock-Zotero?style=flat-square&logo=Zotero&logoColor=%23FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fwww.zotero.org%2Fgroups%2Fblock)
+
+</div>
+
+##### TypeScript / NPM Repository Header
 
 <div align="right">
 
-![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=License&labelColor=%23041B26&color=%23041B26&link=LICENSE)
-![devContainer](https://img.shields.io/badge/start-devContainer_start?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=devContainer&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
+![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
+
+</div>
+
+##### Python / PyPi Repository Header
+
+<div align="right">
+
+![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)
+![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fvscode.dev%2Fredirect%3Furl%3Dvscode%3A%2F%2Fms-vscode-remote.remote-containers%2FcloneInVolume%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbibliography)
 
 </div>
 
