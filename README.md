@@ -152,6 +152,24 @@ Share that your organisation or project endorses the Block Foundation by adding 
 ................................................................................
 ```
 
+``` txt
+........................................................................
+..................@.................                                   .
+...............@@@@@@@..............      BLOCK FOUNDATION             .
+...........@@@....@....@@@..........                                   .
+.......@@@........@........@@@......      www.blockfoundation.io       .
+......@@@@........@........@@@@.....      info@blockfoundation.io      .
+......@.....@@@...@...@@@.....@.....                                   .
+......@.........@@@@@.........@.....                                   .
+......@...........@...........@.....                                   .
+......@...........@...........@.....                                   .
+......@...........@...........@.....                                   .
+.........@@@......@......@@@........                                   .
+.............@@@..@..@@@............                                   .
+..................@.................                                   .
+........................................................................
+```
+
 ## Typography
 
 ### Main Display Font
@@ -442,7 +460,17 @@ Duplicate the template and rename it to your project name.
 
 ### HTML Email Signature Templates
 
-Always in plain simple HTML.
+Always in plain simple `text`.
+
+``` txt
+[]    BLOCK FOUNDATION
+
+      Lars van Vianen
+      lars@blockfoundation.io
+
+      www.blockfoundation.io
+      info@blockfoundation.io
+```
 
 `Will be provided shortly.`
 
@@ -505,10 +533,8 @@ Contributions to this project follow the all-contributors specification. Each co
 <!-- Pull Requests
 Pull requests are always welcome. If you wish to contribute or make changes, please make a pull request. If it's a substantial change, please create an issue first, to discuss it. -->
 
-
 <!-- Community
 Join our community and contribute towards the development and enhancement of the brand assets. We value all our contributors and aim to create a vibrant community that supports and helps each other. -->
-
 
 #### Contributing
 
@@ -544,4 +570,3 @@ Also see [LICENSE](https://github.com/block-foundation/community/blob/master/src
 #### Disclaimer
 
 **THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
-
