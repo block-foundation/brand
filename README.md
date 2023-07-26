@@ -463,7 +463,7 @@ Duplicate the template and rename it to your project name.
 Always in plain simple `text`.
 
 ``` txt
-[]    BLOCK FOUNDATION
+□     BLOCK FOUNDATION
 
       Lars van Vianen
       lars@blockfoundation.io
