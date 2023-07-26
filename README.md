@@ -35,6 +35,7 @@
 - [Frameworks](#frameworks)
   <!-- - [SCSS](#scss) -->
 - [Templates](#templates)
+- [Syntax](#syntax)
 - [Colophon](#colophon)
 <!-- - [Development Resources](#development-resources)
 - [Legal Information](#legal-information)
@@ -135,7 +136,17 @@ We us `Barlow`.
 
 ### Text Conventions
 
-Capitalize the "B" and "F" in "Block Foundation" in all copy text. The Block Foundationn should only be presented in all uppercase when displayed in our official logos.
+#### Block Foundation
+
+Capitalize the "B" and "F" in "Block Foundation" in all copy text. The Block Foundation should only be presented in all uppercase when displayed in our official logos; e.g.: "BLOCK FOUNDATION".
+
+#### Headers
+
+All headers are written in Title case.
+
+#### Emoji's
+
+We don't use them, ever.
 
 ## Color
 
@@ -164,6 +175,10 @@ Our repositories use the following artworks to make them just a little bit moe e
 | Color | Monochrome | Acccent |
 | ----- | ---------- | ------- |
 | [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-color.jpg" width="100%">](https://github.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-color.jpg)*`structure-03-color`* | [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-mono.jpg" width="100%">](https://github.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-mono.jpg)*`structure-03-mono`* | [<img align="center" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg" width="100%">](https://github.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg)*`structure-03-accent`* |
+
+### Photography
+
+`Will be provided shortly.`
 
 ### Banners
 
@@ -368,6 +383,18 @@ Please use, remix, and customize it to fit your needs. -->
 3. Replace the for-placement-only images by dragging new images onto them
 4. Fill out your name, Twitter, and other details as you see fit.
 5. Create new slides to fit your talk
+
+## Syntax
+
+| Language            | Convention |
+| :------------------ | :--------- |
+| `Go`                | [Google Go Style Guide](https://github.com/google/styleguide/tree/gh-pages/go) |
+| `Go`                | [Uber Go Style Guide](https://github.com/uber-go/guide) |
+| `JavaScript`        | [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) |
+| `JavaScript`        | [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) |
+| `Python`            | [Google Python Style Guide
+](https://google.github.io/styleguide/pyguide.html) |
+| `TypeScript`        | [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) |
 
 ---
 
