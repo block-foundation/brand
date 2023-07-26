@@ -186,25 +186,25 @@ flowchart LR
 `class_light`
 
 ``` md
-    classDef class_light fill:#FFFFFF,color:#041B26,stroke:#041B26,stroke-width:2px;
+classDef class_light fill:#FFFFFF,color:#041B26,stroke:#041B26,stroke-width:2px;
 ```
 
 `class_neutral`
 
 ``` md
-    classDef class_neutral fill:#E1E4E5,color:#041B26,stroke:#041B26,stroke-width:2px;
+classDef class_neutral fill:#E1E4E5,color:#041B26,stroke:#041B26,stroke-width:2px;
 ```
 
 `class_dark`
 
 ``` md
-    classDef class_dark fill:#041B26,color:#FFFFFF,stroke:#041B26,stroke-width:2px;
+classDef class_dark fill:#041B26,color:#FFFFFF,stroke:#041B26,stroke-width:2px;
 ```
 
 ### Pie chart
 
 ``` mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFFFFF', 'pie2': '#E1E4E5', 'pie3': '#041B26'}}}%%
+%%{init: {"theme": "base", "pie": {"textPosition": 0.5}, "themeVariables": { "pieOuterStrokeWidth": "2px", "pie1": "#FFFFFF", "pie2": "#E1E4E5", "pie3": "#041B26"}}}%%
 pie title Crypto
     "Bitcoin" : 386
     "Ethereum" : 85
@@ -212,7 +212,7 @@ pie title Crypto
 ```
 
 ``` md
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFFFFF', 'pie2': '#E1E4E5', 'pie3': '#041B26'}}}%%
+%%{init: {"theme": "base", "pie": {"textPosition": 0.5}, "themeVariables": { "pieOuterStrokeWidth": "2px", "pie1": "#FFFFFF", "pie2": "#E1E4E5", "pie3": "#041B26"}}}%%
 ```
 
 ## Elements
