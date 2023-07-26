@@ -122,7 +122,7 @@ Share that your organisation or project endorses the Block Foundation by adding 
 # .........@@@@@@.....................@@@.....................@@@@@@...........
 # .........@@@.@@@@@@.................@@@.................@@@@@@.@@@...........
 # .........@@@.....@@@@@@.............@@@.............@@@@@@.....@@@...........
-# .........@@@.........@@@@@@@........@@@........@@@@@@%.........@@@...........
+# .........@@@.........@@@@@@@........@@@........@@@@@@@.........@@@...........
 # .........@@@..............@@@@@@....@@@....@@@@@@..............@@@...........
 # .........@@@..................@@@@@@@@@@@@@@@..................@@@...........
 # .........@@@......................@@@@@@@......................@@@...........
@@ -469,6 +469,15 @@ Always in plain simple `text`.
 
 ## Syntax
 
+### General
+
+Superseding Conventions:
+
+- We use 4 `spaces` for indents
+- We use a maximum line length of `79` characters in all languages (as per [PEP8](https://peps.python.org/pep-0008/#maximum-line-length))
+
+### Style Guides
+
 | Language            | Convention |
 | :------------------ | :--------- |
 | `Go`                | [Google Go Style Guide](https://github.com/google/styleguide/tree/gh-pages/go) |
@@ -476,6 +485,7 @@ Always in plain simple `text`.
 | `JavaScript`        | [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) |
 | `JavaScript`        | [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) |
 | `Python`            | [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) |
+| `Solidity`          | [Solidity Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
 | `TypeScript`        | [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) |
 
 ---
