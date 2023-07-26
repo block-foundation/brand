@@ -5,6 +5,8 @@
 
 </div>
 
+##### BLOCK FOUNDATION
+
 ---
 
 <div>
@@ -15,36 +17,26 @@
 
 ---
 
-
 <img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg"  alt="Block Foundation Brand">
+
 <br>
+
 <details open="open">
 <summary>Table of Contents</summary>
   
 - [Style Guide](#style-guide)
 - [Logo](#logo)
-  <!-- - [Logomark](#logomark)
-  - [Logotype](#logotype)
-  - [Favicon](#favicon) -->
 - [Typography](#typography)
 - [Color](#color)
 - [Graphics](#graphics)
-  <!-- - [Artworks](#artworks) -->
 - [Diagrams](#diagrams)
 - [Elements](#elements)
 - [Frameworks](#frameworks)
-  <!-- - [SCSS](#scss) -->
 - [Templates](#templates)
 - [Syntax](#syntax)
 - [Colophon](#colophon)
-<!-- - [Development Resources](#development-resources)
-- [Legal Information](#legal-information)
-  - [Copyright](#copyright)
-  - [License](#license)
-  - [Disclaimer](#disclaimer) -->
 
 </details>
-
 
 <br clear="both"/>
 
@@ -81,6 +73,8 @@ We kindly ask that you adhere to the guidelines detailed in this repository to m
 `Will be provided shortly.`
 
 ## Logo
+
+[(Back to top)](#table-of-contents)
 
 ### Logomark
 
