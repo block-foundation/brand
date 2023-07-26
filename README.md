@@ -136,13 +136,22 @@ We us `Barlow`.
 
 ### Text Conventions
 
-#### Block Foundation
+#### Brand Name
 
-Capitalize the "B" and "F" in "Block Foundation" in all copy text. The Block Foundation should only be presented in all uppercase when displayed in our official logos; e.g.: "BLOCK FOUNDATION".
+Capitalize the "B" and "F" in "Block Foundation" in all copy text. The Block Foundation should only be presented in all uppercase when displayed in our official logos; e.g.: "BLOCK FOUNDATION". In code, "block_foundation" is all lowercase / snakecase.
+
+- ✓ BLOCK FOUNDATION `(in Logo)`
+- ✓ Block Foundation `(in Text)`
+- ✓ block_foundation `(in Code)`
+- × BlockFoundation
+- × blockFoundation
+- × Block-Foundation
+- × block-foundation
+- × block foundation
 
 #### Headers
 
-All headers are written in Title case.
+All headers are written in Title Case.
 
 #### Emoji's
 
@@ -392,8 +401,7 @@ Please use, remix, and customize it to fit your needs. -->
 | `Go`                | [Uber Go Style Guide](https://github.com/uber-go/guide) |
 | `JavaScript`        | [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) |
 | `JavaScript`        | [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) |
-| `Python`            | [Google Python Style Guide
-](https://google.github.io/styleguide/pyguide.html) |
+| `Python`            | [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) |
 | `TypeScript`        | [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) |
 
 ---
