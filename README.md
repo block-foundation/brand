@@ -15,15 +15,11 @@
 
 ---
 
-<div>
+
 <img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg"  alt="Block Foundation Brand">
 <br>
 <details open="open">
-<summary>
-
-# Table of Contents
-
-</summary>
+<summary>Table of Contents</summary>
   
 - [Style Guide](#style-guide)
 - [Logo](#logo)
@@ -48,7 +44,7 @@
   - [Disclaimer](#disclaimer) -->
 
 </details>
-</div>
+
 
 <br clear="both"/>
 
@@ -175,7 +171,6 @@ Share that your organisation or project endorses the Block Foundation by adding 
 
 ## Typography
 
-[(Back to top)](#table-of-contents)
 
 ### Main Display Font
 
