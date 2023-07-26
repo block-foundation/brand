@@ -393,6 +393,22 @@ Please use, remix, and customize it to fit your needs. -->
 4. Fill out your name, Twitter, and other details as you see fit.
 5. Create new slides to fit your talk
 
+### Figma Template
+
+For those who use [Figma](www.figma.com), we have included a template that can be used to create a new project. This template has Color Presets and some of the most common components.
+
+Duplicate the template and rename it to your project name.
+
+`Will be provided shortly.`
+
+<!-- [GET TEMPLATE](https://www.figma.com/file/6h1AgZe3I5lYmD3mxu9cjR/Ballerini-Style-Guide/duplicate) -->
+
+### HTML Email Signature Templates
+
+Always in plain simple HTML.
+
+`Will be provided shortly.`
+
 ## Syntax
 
 | Language            | Convention |
@@ -409,6 +425,11 @@ Please use, remix, and customize it to fit your needs. -->
 ## Colophon
 
 ### Development Resources
+
+#### Version
+
+This documentation is in version `v0.0.1`.
+Last edited: `07/2023`
 
 #### Authors
 
