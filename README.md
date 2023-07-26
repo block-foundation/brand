@@ -5,8 +5,6 @@
 
 </div>
 
-##### BLOCK FOUNDATION
-
 ---
 
 <div>
@@ -74,7 +72,7 @@ We kindly ask that you adhere to the guidelines detailed in this repository to m
 
 ## Logo
 
-[(Back to top)](#table-of-contents)
+[(Back to top)](#block-foundation)
 
 ### Logomark
 
