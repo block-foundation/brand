@@ -171,7 +171,7 @@ Our repositories use the following artworks to make them just a little bit moe e
 
 ## Diagrams
 
-We use [Mermaid](https://mermaid.js.org/) in our repositories for simple data and process visualisations.
+We use [Mermaid](https://mermaid.js.org/) in our repositories for simple data and process visualisations. Some examples:
 
 ### Flowchart
 
@@ -213,19 +213,6 @@ pie title Crypto
 
 ``` md
 %%{init: {"theme": "base", "pie": {"textPosition": 0.5}, "themeVariables": { "pieOuterStrokeWidth": "2px", "pie1": "#FFFFFF", "pie2": "#E1E4E5", "pie3": "#041B26"}}}%%
-```
-
-### Quadrant Chart
-
-``` mermaid
-%%{init: {"quadrantChart": {"chartWidth": 400, "chartHeight": 400}, "themeVariables": {"quadrant1TextFill": "#041B26"} }}%%
-quadrantChart
-  x-axis Urgent --> Not Urgent
-  y-axis Not Important --> "Important ❤"
-  quadrant-1 Plan
-  quadrant-2 Do
-  quadrant-3 Delegate
-  quadrant-4 Delete
 ```
 
 ## Elements
