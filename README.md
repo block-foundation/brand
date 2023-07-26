@@ -211,6 +211,8 @@ All headers are written in Title Case.
 
 We don't use them, ever.
 
+[(Back to top)](#table-of-contents)
+
 ## Color
 
 ### Base Colors
