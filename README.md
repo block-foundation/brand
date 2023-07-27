@@ -473,8 +473,10 @@ Always in plain simple `text`.
 
 Superseding Conventions:
 
-- We use 4 `spaces` for indents
-- We use a maximum line length of `79` characters in all languages (as per [PEP8](https://peps.python.org/pep-0008/#maximum-line-length))
+- We use `4 spaces` for indents
+- We use a maximum line length of `79 characters` in all languages (as per [PEP8](https://peps.python.org/pep-0008/#maximum-line-length))
+- Strings should be quoted with double-quotes instead of single-quotes.
+- Surround operators with a single space on either side.
 
 ### Style Guides
 
