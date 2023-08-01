@@ -327,6 +327,11 @@ We use [IO Shields](https://shields.io/) combined with [simple-icons](https://si
 | **DOI**    | ![DOI](https://img.shields.io/badge/10.5281%2Fzenodo.8173471-DOI?style=flat-square&logo=DOI&logoColor=%23FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fdoi.org%2F10.5281%2Fzenodo.8173471)    | [/badges](https://shields.io/badges)    | `DOI` |
 | **Zotero**    | ![Zotero](https://img.shields.io/badge/zotero.org%2Fgroups%2Fblock-Zotero?style=flat-square&logo=Zotero&logoColor=%23FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fwww.zotero.org%2Fgroups%2Fblock)    | [/badges](https://shields.io/badges)    | `Zotero` |
 | **Download**    | ![Download](https://img.shields.io/badge/File-File?style=flat-square&logo=files&logoColor=%23FFFFFF&label=Download%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fblob%2Fmaster%2Fsrc%2Fcolor%2Fblock_foundation-color.scss)  | [/badges](https://shields.io/badges)    | `files` |
+| **Solidity**    | ![Solidity](https://img.shields.io/badge/&gt;&equals;&#32;0&period;6&period;8-File?style=flat-square&logo=Solidity&logoColor=%23FFFFFF&label=Solidity%3A&labelColor=%23041B26&color=%23041B26)  | [/badges](https://shields.io/badges)    | `Solidity` |
+| **Teal**    | ![Teal](https://img.shields.io/badge/&gt;&equals;&#32;0&period;6&period;8-File?style=flat-square&logo=Algorand&logoColor=%23FFFFFF&label=Teal%3A&labelColor=%23041B26&color=%23041B26)  | [/badges](https://shields.io/badges)    | `Algorand` |
+| **Substrate**    | ![Substrate](https://img.shields.io/badge/&gt;&equals;&#32;0&period;6&period;8-File?style=flat-square&logo=paritysubstrate&logoColor=%23FFFFFF&label=Substrate%3A&labelColor=%23041B26&color=%23041B26)  | [/badges](https://shields.io/badges)    | `paritysubstrate` |
+| **Hyperledger**    | ![Hyperledger](https://img.shields.io/badge/&gt;&equals;&#32;0&period;6&period;8-File?style=flat-square&logo=Hyperledger&logoColor=%23FFFFFF&label=Hyperledger%3A&labelColor=%23041B26&color=%23041B26)  | [/badges](https://shields.io/badges)    | `Hyperledger` |
+
 
 #### Repository Headers
 
