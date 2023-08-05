@@ -163,7 +163,6 @@ Share that your organisation or project endorses the Block Foundation by adding 
 
 ## Typography
 
-
 ### Main Display Font
 
 We us `Barlow`.
@@ -172,7 +171,7 @@ We us `Barlow`.
     <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/font/barlow/barlow.gif"width="100%" height="100%" alt="Barlow">
 </p>
 
-- Creators: [Jeremy Tribby](https://github.com/jpt) (Principal Design) and Nguyễn Hồng Nhung (Vietnamese)
+- Creators: [Jeremy Tribby](https://github.com/jpt) (Principal Design) and [Nguyễn Hồng Nhung](https://github.com/crystaltype) (Vietnamese)
 - Repository: [jpt/barlow](https://github.com/jpt/barlow)
 - License: [OFL](https://github.com/jpt/barlow/blob/main/OFL.txt)
 - GIF courtesy of the original creators.
@@ -203,7 +202,6 @@ All headers are written in Title Case.
 #### Emoji's
 
 We don't use them, ever.
-
 
 ## Color
 
@@ -332,7 +330,6 @@ We use [IO Shields](https://shields.io/) combined with [simple-icons](https://si
 | **Substrate**    | ![Substrate](https://img.shields.io/badge/&gt;&equals;&#32;0&period;6&period;8-File?style=flat-square&logo=paritysubstrate&logoColor=%23FFFFFF&label=Substrate%3A&labelColor=%23041B26&color=%23041B26)  | [/badges](https://shields.io/badges)    | `paritysubstrate` |
 | **Hyperledger**    | ![Hyperledger](https://img.shields.io/badge/&gt;&equals;&#32;0&period;6&period;8-File?style=flat-square&logo=Hyperledger&logoColor=%23FFFFFF&label=Hyperledger%3A&labelColor=%23041B26&color=%23041B26)  | [/badges](https://shields.io/badges)    | `Hyperledger` |
 
-
 #### Repository Headers
 
 All repositories include the basic header, in some cases combined with additional shields.
@@ -355,7 +352,6 @@ All repositories include the basic header, in some cases combined with additiona
 ![Ask a Question](https://img.shields.io/badge/Ask%20a%20Question-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Aquestion%26template%3Dquestion.yml)
 ![Make a Suggestion](https://img.shields.io/badge/Make%20a%20Suggestion-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5&link=https%3A%2F%2Fgithub.com%2Fblock-foundation%2Fbrand%2Fissues%2Fnew%3Fassignees%3D%26labels%3DNeeds%253A%2BTriage%2B%253Amag%253A%252Ctype%253Aenhancement%26template%3Dsuggestion.yml)
 ![Start a Discussion](https://img.shields.io/badge/Start%20a%20Discussion-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5&link=%2F/discussions)
-
 
 </div>
 
@@ -559,7 +555,6 @@ Your sponsorships help us maintain this project. You can sponsor this project th
 
 Issues
 In case you find any errors or have suggestions for improvements, we encourage you to raise an issue. The Issues tab is a space for community members to discuss problems they’ve encountered, suggest enhancements, and more.
-
 
 #### FAQ
 We have compiled a list of frequently asked questions for easier navigation and understanding of this repository. If you have more questions, please raise an issue and we will be glad to assist you. -->
