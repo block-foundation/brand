@@ -19,9 +19,8 @@
 
 <br>
 
-<details open="open">
-<summary>Table of Contents</summary>
-  
+### Contents
+
 - [Style Guide](#style-guide)
 - [Logo](#logo)
 - [Typography](#typography)
@@ -34,7 +33,6 @@
 - [Syntax](#syntax)
 - [Colophon](#colophon)
 
-</details>
 
 <br clear="both"/>
 
