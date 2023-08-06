@@ -17,8 +17,6 @@
 
 <img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg"  alt="Block Foundation Brand">
 
-
-
 ### Contents
 
 - [Style Guide](#style-guide)
@@ -32,7 +30,6 @@
 - [Templates](#templates)
 - [Syntax](#syntax)
 - [Colophon](#colophon)
-
 
 <br clear="both"/>
 
